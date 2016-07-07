@@ -243,3 +243,7 @@ labels:"AMC Digital"
 </div>
 </body>
 </html>
+<?php
+// Show all information, defaults to INFO_ALL
+phpinfo();
+?>
