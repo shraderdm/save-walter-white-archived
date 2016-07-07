@@ -241,6 +241,6 @@ labels:"AMC Digital"
 	THIS SITE IS NOT MEANT TO INFRINGE IN ANY WAY ON THE INTELLECTUAL PROPERTY OF AMC.
 	It is simply a demo of quickly rebuilding a site in OpenShift.
 </div>
-<? phpinfo(); ?>
+<p><? phpinfo(); ?></p>
 </body>
 </html>
