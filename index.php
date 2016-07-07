@@ -241,6 +241,8 @@ labels:"AMC Digital"
 	THIS SITE IS NOT MEANT TO INFRINGE IN ANY WAY ON THE INTELLECTUAL PROPERTY OF AMC.
 	It is simply a demo of quickly rebuilding a site in OpenShift.
 </div>
-<p><? phpinfo(); ?></p>
+<?php
+$ipAddress = gethostbyname($_SERVER['SERVER_NAME']);
+?>
 </body>
 </html>
