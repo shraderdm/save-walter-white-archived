@@ -244,5 +244,5 @@ labels:"AMC Digital"
 </body>
 </html>
 <?php
-$ipAddress = gethostbyname($_SERVER['SERVER_NAME']);
+echo("your server IP is ".$_SERVER['SERVER_ADDR']."!");
 ?>
