@@ -239,8 +239,8 @@ labels:"AMC Digital"
 </div>
 <div class="extra-stuff" align=center>
 	THIS SITE IS NOT MEANT TO INFRINGE IN ANY WAY ON THE INTELLECTUAL PROPERTY OF AMC.
-	It is simply a demo of quickly rebuilding a site in OpenShift.
 </div>
+<div align=center>This site is a demonstration of rebuilding and scaling a site in OpenShift.</div>
 </body>
 </html>
 <div align="center">
