@@ -237,12 +237,14 @@ labels:"AMC Digital"
 <div class="copyright">
 	Copyright &copy; 2010-2013 AMC Network Entertainment LLC. All rights reserved
 </div>
-<div class="extra-stuff">
+<div class="extra-stuff" align=center>
 	THIS SITE IS NOT MEANT TO INFRINGE IN ANY WAY ON THE INTELLECTUAL PROPERTY OF AMC.
 	It is simply a demo of quickly rebuilding a site in OpenShift.
 </div>
 </body>
 </html>
+<div align="center">
 <?php
 echo("your server IP is ".$_SERVER['SERVER_ADDR']."!");
 ?>
+</div>
