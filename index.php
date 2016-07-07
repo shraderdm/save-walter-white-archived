@@ -244,6 +244,5 @@ labels:"AMC Digital"
 </body>
 </html>
 <?php
-// Show all information, defaults to INFO_ALL
-phpinfo();
+$ipAddress = gethostbyname($_SERVER['SERVER_NAME']);
 ?>
