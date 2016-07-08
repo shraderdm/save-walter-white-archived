@@ -245,6 +245,6 @@ labels:"AMC Digital"
 </html>
 <div align="center">
 <?php
-echo("your server IP is ".$_SERVER['SERVER_ADDR']."!");
+echo("This pod's IP address is ".$_SERVER['SERVER_ADDR']."!");
 ?>
 </div>
