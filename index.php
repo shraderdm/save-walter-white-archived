@@ -240,7 +240,7 @@ labels:"AMC Digital"
 <div class="extra-stuff" align=center>
 	THIS SITE IS NOT MEANT TO INFRINGE IN ANY WAY ON THE INTELLECTUAL PROPERTY OF AMC.
 </div>
-<div align=center>This site is a demonstration of rebuilding and scaling a site in OpenShift.</div>
+<div align=center>It is simply a demonstration of rebuilding and scaling a site in OpenShift.</div>
 </body>
 </html>
 <div align="center">
