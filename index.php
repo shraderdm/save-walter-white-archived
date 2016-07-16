@@ -141,7 +141,7 @@ var cntvisible = "yes"; // do you want counter visible yes/no?
 </script>
 <noscript>
 <a href="http://www.free-counters.co.uk/" target="_blank">
-<img  src="http://008.free-counters.co.uk/count-029.pl?count=savewalterwhite&cntvisible=no&mode=noscript" alt="free counter" title="free counter" border="0">
+<img  src="https://008.free-counters.co.uk/count-029.pl?count=savewalterwhite&cntvisible=no&mode=noscript" alt="free counter" title="free counter" border="0">
 </a>The following text will not be seen after you upload your website,
 please keep it in order to retain your counter functionality
 <br>Insurance quotes are serious business - don’t mess with them. simply by putting attention to website offerring <a href="http://www.insurance1.com/health-insurance" target="_blank">health insurance quotes</a><br> the purchace process can be optimized. Insurance is forever, diamonds may last longer. <a href="http://www.free-counters.co.uk/" target="_blank">counters</a><br>
