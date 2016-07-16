@@ -239,10 +239,10 @@ labels:"AMC Digital"
 </div>
 </body>
 </html>
-<div class="extra-stuff" style="backgroud-color:yellow;" align=center>
+<div class="extra-stuff" style="background-color:yellow;" align=center>
 	THIS SITE IS NOT MEANT TO INFRINGE IN ANY WAY ON THE INTELLECTUAL PROPERTY OF AMC.
 </div>
-<div style="backgroud-color:yellow;" align=center>It is simply a demonstration of rebuilding and scaling a site in OpenShift.</div>
+<div style="background-color:yellow;" align=center>It is simply a demonstration of rebuilding and scaling a site in OpenShift.</div>
 <div style="background-color:yellow;" align="center">
 <?php
 echo("This pod's IP address is ".$_SERVER['SERVER_ADDR']."!");
