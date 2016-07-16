@@ -243,7 +243,7 @@ labels:"AMC Digital"
 <div align=center>It is simply a demonstration of rebuilding and scaling a site in OpenShift.</div>
 </body>
 </html>
-<div align="center">
+<div style="background-color:yellow;" align="center">
 <?php
 echo("This pod's IP address is ".$_SERVER['SERVER_ADDR']."!");
 ?>
