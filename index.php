@@ -237,12 +237,12 @@ labels:"AMC Digital"
 <div class="copyright">
 	Copyright &copy; 2010-2013 AMC Network Entertainment LLC. All rights reserved
 </div>
+</body>
+</html>
 <div class="extra-stuff" style="backgroud-color:yellow;" align=center>
 	THIS SITE IS NOT MEANT TO INFRINGE IN ANY WAY ON THE INTELLECTUAL PROPERTY OF AMC.
 </div>
 <div style="backgroud-color:yellow;" align=center>It is simply a demonstration of rebuilding and scaling a site in OpenShift.</div>
-</body>
-</html>
 <div style="background-color:yellow;" align="center">
 <?php
 echo("This pod's IP address is ".$_SERVER['SERVER_ADDR']."!");
