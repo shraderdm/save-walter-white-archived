@@ -237,10 +237,10 @@ labels:"AMC Digital"
 <div class="copyright">
 	Copyright &copy; 2010-2013 AMC Network Entertainment LLC. All rights reserved
 </div>
-<div class="extra-stuff" align=center>
+<div style="backgroud-color:red;" class="extra-stuff" align=center>
 	THIS SITE IS NOT MEANT TO INFRINGE IN ANY WAY ON THE INTELLECTUAL PROPERTY OF AMC.
 </div>
-<div align=center>It is simply a demonstration of rebuilding and scaling a site in OpenShift.</div>
+<div style="background-color:red;" align=center>It is simply a demonstration of rebuilding and scaling a site in OpenShift.</div>
 </body>
 </html>
 <div style="background-color:yellow;" align="center">
