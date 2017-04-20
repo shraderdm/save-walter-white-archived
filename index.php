@@ -1,10 +1,15 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<script src="jquery.min.js" type="text/javascript"></script>
+<script src="jquery.timeago.js" type="text/javascript"></script>
 <html>
 <head>
 	<title>Save Walter White</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<link rel="stylesheet" type="text/css" href="save-walter-white.css" />
+	jQuery(document).ready(function() {
+        jQuery("time.timeago").timeago();
+        });
 </head>
 <body>
 	<div id="walter-container">
@@ -21,6 +26,7 @@
 		<ul id="third_row">
 			<li><img src="./img/walter_5.jpg" alt="" /></li>
 		</ul>
+		<time class="timeago" datetime="2008-07-17T09:24:17Z">Walter White died July 17, 2008</time>
 		<p class="medium-copy yellow justify">
 		My dad is amazing. It's funny, but I didn't know that until I<br/>
 		found out he was going to die.&nbsp;&nbsp;That it was going to happen<br/>
