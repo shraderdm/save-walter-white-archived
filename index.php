@@ -1,15 +1,22 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<script src="jquery.min.js" type="text/javascript"></script>
-<script src="jquery.timeago.js" type="text/javascript"></script>
 <html>
 <head>
 	<title>Save Walter White</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
-	<link rel="stylesheet" type="text/css" href="save-walter-white.css" />
-	jQuery(document).ready(function() {
-        jQuery("time.timeago").timeago();
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+        <script src="jquery.timeago.js" type="text/javascript"></script>
+        <script src="test/test_helpers.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        jQuery(document).ready(function($) {
+        prepareDynamicDates();
+        $(".timeago").timeago();
+
+        $("#prog_date").text(jQuery.timeago(new Date()));
+        $("#prog_string").text(jQuery.timeago("2008-07-17"));
+        $("#prog_element").text(jQuery.timeago("2008-07-20"));
         });
+        </script>
 </head>
 <body>
 	<div id="walter-container">
