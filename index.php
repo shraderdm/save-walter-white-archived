@@ -4,6 +4,7 @@
 <head>
 	<title>Save Walter White</title>
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<link rel="stylesheet" type="text/css" href="save-walter-white.css" />
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         <script src="jquery.timeago.js" type="text/javascript"></script>
         <script src="test/test_helpers.js" type="text/javascript"></script>
