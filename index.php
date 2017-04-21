@@ -34,9 +34,6 @@
 		<ul id="third_row">
 			<li><img src="./img/walter_5.jpg" alt="" /></li>
 		</ul>
-                <p class="example">
-                Walt died <time class="timeago" datetime="2015-04-20T17:17:00Z"></time>.
-                </p>
 		<p class="medium-copy yellow justify">
 		My dad is amazing. It's funny, but I didn't know that until I<br/>
 		found out he was going to die.&nbsp;&nbsp;That it was going to happen<br/>
